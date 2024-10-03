@@ -1,7 +1,3 @@
-Certainly! Here's a sample **README** file based on the article you've written about deploying a Cloud Run function using Google Artifact Registry.
-
----
-
 # **Deploying a Cloud Run Service on Google Cloud Platform**
 
 This repository contains a sample project demonstrating how to deploy a Node.js application as a containerized service on Google Cloud Platform (GCP) using **Cloud Run** and **Google Artifact Registry**.
@@ -135,7 +131,3 @@ This project demonstrates how to deploy a containerized application to Cloud Run
 ## **License**
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
-This README provides a clear overview of the steps needed to deploy the sample application to Cloud Run, alongside a description of the project structure and common commands for managing the deployment.
